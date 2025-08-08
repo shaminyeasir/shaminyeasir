@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Md. Shamin Yeasir - Banner" />
+  <img src="https://i.ibb.co.com/zhJKZvKb/Chat-GPT-Image-Aug-8-2025-03-02-10-PM.png" alt="Md. Shamin Yeasir - Banner" />
 </p>
 
 <!-- Name & Designation -->
