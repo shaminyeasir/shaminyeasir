@@ -17,7 +17,6 @@ I'm a passionate Frontend Web Developer focused on building responsive and dynam
 ### 🚀 What I'm Currently Up To
 
 - 🌱 Exploring **Next.js** for server-side rendering and advanced React features
-- 💼 Working on a **tourism website** project with full-stack integration
 - 📖 Enhancing UI/UX skills with **Figma** and design systems
 - 🔍 Looking for new opportunities to grow as a **Full Stack JavaScript Developer**
 
@@ -45,7 +44,6 @@ I'm a passionate Frontend Web Developer focused on building responsive and dynam
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -53,11 +51,8 @@ I'm a passionate Frontend Web Developer focused on building responsive and dynam
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/shaminyeasir" target="_blank">
+  <a href="https://www.linkedin.com/in/md-shamin-yeasir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/shaminyeasir" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
